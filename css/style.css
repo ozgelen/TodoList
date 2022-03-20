@@ -61,6 +61,20 @@ ul li.checked::before {
   color: white;
 
 }
+.checkBtn {
+  position: absolute;
+  right: 50px;
+  top: 0;
+  padding: 12px 16px 12px 16px;
+  border-style: none;
+}
+ 
+.checkBtn:hover {
+  background-color: #ffe484;
+  color: white;
+
+}
+
 
 .header {
   background-color: #8a34cf;
